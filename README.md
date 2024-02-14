@@ -49,4 +49,7 @@ Let's build something awesome together!
 -Numa Rahim 
 https://github.com/NumaRahim
 
+## License
+[MIT License](LICENSE)
+
 
